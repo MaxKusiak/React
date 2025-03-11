@@ -8,6 +8,7 @@ function App() {
 
   console.log("Start")
 
+  console.log("Return")
   return (
     <>
       <div>
@@ -32,6 +33,7 @@ function App() {
       </p>
     </>
   )
+
 }
 
 export default App
