@@ -1,0 +1,16 @@
+.news{
+    color: black;
+    display: flex;
+    width: 400px;
+}
+.time{
+    color: rgb(212, 0, 0);
+}
+.text{
+    /* width: 500px; */
+    margin-left: 10px;
+}
+.news a{
+    text-decoration: none;
+    color: black;
+}
